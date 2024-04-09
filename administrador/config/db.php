@@ -2,7 +2,7 @@
 $host = "localhost";
 $dbname = "php_mysql_biblioteca";
 $usuario = "root";
-$contraseña = "";
+$contraseña = "Wmlizxc123";
 
 try {
     $conexion = new PDO("mysql:host=$host;dbname=$dbname", $usuario, $contraseña); // Conexion a la db
